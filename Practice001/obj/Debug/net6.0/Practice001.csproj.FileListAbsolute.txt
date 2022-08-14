@@ -1,0 +1,15 @@
+C:\Users\Катерина\Репозитории\Practice\Practice001\bin\Debug\net6.0\Practice001.exe
+C:\Users\Катерина\Репозитории\Practice\Practice001\bin\Debug\net6.0\Practice001.deps.json
+C:\Users\Катерина\Репозитории\Practice\Practice001\bin\Debug\net6.0\Practice001.runtimeconfig.json
+C:\Users\Катерина\Репозитории\Practice\Practice001\bin\Debug\net6.0\Practice001.dll
+C:\Users\Катерина\Репозитории\Practice\Practice001\bin\Debug\net6.0\Practice001.pdb
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.csproj.AssemblyReference.cache
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.AssemblyInfoInputs.cache
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.AssemblyInfo.cs
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.csproj.CoreCompileInputs.cache
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.dll
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\refint\Practice001.dll
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.pdb
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\Practice001.genruntimeconfig.cache
+C:\Users\Катерина\Репозитории\Practice\Practice001\obj\Debug\net6.0\ref\Practice001.dll
